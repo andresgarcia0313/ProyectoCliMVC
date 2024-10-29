@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "name": "PowerShell",
+            "type": "PowerShell",
+            "request": "launch",
+            "script": "${workspaceFolder}/Main.ps1",
+            "cwd": "${workspaceFolder}", 
+            "createTemporaryIntegratedConsole": false,
+            "internalConsoleOptions": "openOnSessionStart",
+            
+        }
+    ]
+}
